@@ -1,0 +1,17 @@
+{
+ 
+  "data":{
+      
+	  "type":"sessions",
+      
+	  "attributes":{
+         
+		  "email":"#{email}",
+         
+		  "password":"#{password}"
+      
+	  }
+   
+  }
+
+}

@@ -1,0 +1,25 @@
+{
+	"base_url": "https://core-development.clinical6.com",
+    "super_user": {
+      "email": "wangjiefei1987+super01@gmail.com",
+      "password": "Parallel6@"
+    },
+    "unauthorized_user": {
+      "email": "mzhongp6+corep01@gmail.com",
+      "password": "Core@123!"
+    },
+    "invalid_user": {
+      "email": "invaliduser@gmail.com",
+      "password": "invalidUser"
+    },
+    "mobile_user": {
+      "email": "pavel.shainsky+mobile2@gmail.com",
+      "password": "Charm009!!",
+      "device_id": "4"
+    },
+    "user_sessions_create": {
+      "base_path": "/v3/users/session",
+      "invalid_name": "-1",
+      "invalid_password": "bad_Password"
+    }
+}
